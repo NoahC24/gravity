@@ -7,7 +7,7 @@ A set of functions to calculate the effects of gravity.
 
 Created on Mon Jun 17 18:28:40 2019
 
-@author: aanderson
+@author: aanderson, author 2
 """
 
 def xy(t, xy0, v0):
@@ -45,4 +45,3 @@ finally:
 
 
 print(trajectory)
-
